@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 실제 도메인이 정해지면 아래 주소를 활성화하세요.
+# Sitemap: https://example.com/sitemap.xml
